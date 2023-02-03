@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="MacBook-Air.local" failures="0" tests="12" name="com.crm.qa.testcases.ContactsPageTest" time="178.628" errors="0" timestamp="2 Feb 2023 03:15:39 GMT">
+  <testcase classname="com.crm.qa.testcases.ContactsPageTest" name="verifyContactsPageLabel" time="0.135"/>
+  <testcase classname="com.crm.qa.testcases.HomePageTest" name="verifyHomePageTitle" time="0.027"/>
+  <testcase classname="com.crm.qa.testcases.LoginPageTest" name="loginPageTitleTest" time="0.179"/>
+  <testcase classname="com.crm.qa.testcases.ContactsPageTest" name="selectSingleContactsTest" time="1.576"/>
+  <testcase classname="com.crm.qa.testcases.HomePageTest" name="verifyCorrectUserName" time="0.195"/>
+  <testcase classname="com.crm.qa.testcases.LoginPageTest" name="crmLogoImageTest" time="0.45"/>
+  <testcase classname="com.crm.qa.testcases.ContactsPageTest" name="selectMultipleContactsTest" time="1.531"/>
+  <testcase classname="com.crm.qa.testcases.HomePageTest" name="verifyContactsLinkTest" time="1.446"/>
+  <testcase classname="com.crm.qa.testcases.LoginPageTest" name="loginTest" time="5.159"/>
+  <testcase classname="com.crm.qa.testcases.ContactsPageTest" name="validateCreateNewContact" time="4.186"/>
+  <testcase classname="com.crm.qa.testcases.ContactsPageTest" name="validateCreateNewContact" time="10.117"/>
+  <testcase classname="com.crm.qa.testcases.ContactsPageTest" name="validateCreateNewContact" time="3.265"/>
+</testsuite>
